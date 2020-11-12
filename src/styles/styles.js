@@ -36,7 +36,7 @@ export default StyleSheet.create({
     paddingLeft: 10,
     fontSize: 18,
 
-    shadowColor: "grey",
+    shadowColor: "#6C6C6C",
     shadowOffset: {
       width: 0,
       height: 1,
@@ -69,14 +69,14 @@ export default StyleSheet.create({
     backgroundColor: '#FFF',
     width: '31.6%',
     height: 30,
-    borderColor: '#E8E8E8',
+    borderColor: '#fff',
     borderWidth: 1,
     borderRadius: 7,
     alignItems: 'center',
     justifyContent: 'center',
 
 
-    shadowColor: "#000",
+    shadowColor: "#6C6C6C",
     shadowOffset: {
       width: 0,
       height: 2,
@@ -135,7 +135,7 @@ export default StyleSheet.create({
     justifyContent: 'space-between',
 
 
-    shadowColor: "#000",
+    shadowColor: "#6C6C6C",
     shadowOffset: {
       width: 0,
       height: 2,
@@ -201,12 +201,12 @@ export default StyleSheet.create({
     shadowColor: "#000",
     shadowOffset: {
       width: 0,
-      height: 12,
+      height: 18,
     },
     shadowOpacity: 0.58,
     shadowRadius: 16.00,
 
-    elevation: 24,
+    elevation: 28,
   },
   //Tela criar task
   container2: {
@@ -224,7 +224,7 @@ export default StyleSheet.create({
     justifyContent: 'center',
     marginTop: 20,
 
-    shadowColor: "#000",
+    shadowColor: "#6C6C6C",
     shadowOffset: {
       width: 0,
       height: 2,

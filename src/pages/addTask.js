@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React, { useState, useEffect } from 'react';
 import styles from '../styles/styles.js'
 
-import { 
+import {
   Text,
   View,
   TextInput,

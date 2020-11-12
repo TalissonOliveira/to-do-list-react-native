@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { useState } from 'react';
+import { Ionicons, Feather } from '@expo/vector-icons';
 import styles from '../styles/styles.js'
 import addTask from './addTask.js'
 import { 
@@ -11,7 +12,7 @@ import {
   Platform,
 } from 'react-native';
 
-import { Ionicons, Feather } from '@expo/vector-icons';
+
 
   
 
